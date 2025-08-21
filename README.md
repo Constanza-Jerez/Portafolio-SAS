@@ -1,6 +1,6 @@
 # Portafolio SAS
 
-Este repositorio es un portafolio de mis proyectos y ejercicios en lenguaje de programación SAS.
+Este es un repositorio de portafolio de mis proyectos y ejercicios en lenguaje de programación SAS.
 
 Aquí encontrarás una colección de scripts que demuestran mi habilidad en:
 - Manipulación de datos (PROC SQL, DATA Step)
